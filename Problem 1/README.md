@@ -1,5 +1,5 @@
 # Multiples of 3 and 5
-** Problem 1 **
+
 
 Problem 1
 --------------------

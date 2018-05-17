@@ -1,4 +1,4 @@
 # Project Euler
 --------------------
 
-a selection of problems from the Project Euler 
+a selection of problems from Project Euler 
